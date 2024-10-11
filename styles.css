@@ -117,4 +117,24 @@ body, html {
 
 img{
     vertical-align: center;
+    
 }
+
+
+.pressimage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px; /* Increased gap for more separation */
+    padding-top: 100px; /* More vertical padding */
+}
+
+.pressimage {
+    width: 750px;
+    height: auto;
+    box-shadow: 4px 4px 8px rgba(253, 67, 222, 0.953); /* Add drop shadow */
+    display: block; /* Ensures each image is on its own line */
+    margin-bottom: 40px; /* Additional space between images */
+}
+
+    
