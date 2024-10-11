@@ -41,7 +41,7 @@ body, html {
 
 .navbar a {
     text-decoration: none;
-    color: rgb(64, 234, 246);
+    color: rgb(11, 11, 11);
     padding:  0 150px ;
     text-align: center;
     display: block;
@@ -58,7 +58,7 @@ body, html {
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
-    opacity: .8;
+    opacity: .9;
     z-index: -1;
     
 }
@@ -92,7 +92,7 @@ body, html {
 
 #dates {
     font-size: 16px;
-    color: #666;
+    color: #070707;
 }
 
 .Text a {
@@ -103,7 +103,7 @@ body, html {
 }
 
 .Text a:hover {
-    color: #e904f9; /* This is a blue color, you can change it to any color you prefer */
+    color: #f9ed04; /* This is a blue color, you can change it to any color you prefer */
 }
 
 .images{
