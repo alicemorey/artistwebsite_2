@@ -116,7 +116,8 @@ body, html {
 }
 
 img{
-    vertical-align: center;
+    
+    display: block;
     
 }
 
